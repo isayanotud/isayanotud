@@ -9,7 +9,7 @@ Check out my best projects:
 ## Develops in:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ps,html,css,js,nodejs,discord,python,github,vscode,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=ps,html,css,js,nodejs,cs,cpp,discord,python,github,vscode,linux,windows" />
 </p>
 
 ❤️ I enjoy web UI, Next.js, creative coding, and game dev.
